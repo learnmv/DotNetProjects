@@ -1,0 +1,7 @@
+D:\DotNetProjects\azure-webapp-mv\publish\azure-webapp-mv.exe
+D:\DotNetProjects\azure-webapp-mv\publish\appsettings.Development.json
+D:\DotNetProjects\azure-webapp-mv\publish\appsettings.json
+D:\DotNetProjects\azure-webapp-mv\publish\azure-webapp-mv.dll
+D:\DotNetProjects\azure-webapp-mv\publish\azure-webapp-mv.deps.json
+D:\DotNetProjects\azure-webapp-mv\publish\azure-webapp-mv.runtimeconfig.json
+D:\DotNetProjects\azure-webapp-mv\publish\azure-webapp-mv.pdb
